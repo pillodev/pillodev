@@ -1,4 +1,4 @@
-                                                                                              # 👋 ¡Hola, soy pillodev!
+# 👋 ¡Hola, soy pillodev!
 
 ## Sobre mí
 Soy un programador full-stack trabajando actualmente en una empresa y, por las tardes, estudio Ingeniería de Software. Terminé el TSU en Desarrollo de Software Multiplataforma y me apasiona crear soluciones robustas y escalables para la web. Mi enfoque principal está en el backend, aunque siempre me gusta mantener un ojo en el frontend.
