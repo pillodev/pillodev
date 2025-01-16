@@ -1,16 +1,20 @@
-## Hi there 👋
+                👋 ¡Hola, soy pillodev!
+Soy un programador full-stack trabajando actualmente en una empresa y, por las tardes, estudio Ingeniería de Software. Terminé el TSU en Desarrollo de Software Multiplataforma y me apasiona crear soluciones robustas y escalables para la web. Mi enfoque principal está en el backend, aunque siempre me gusta mantener un ojo en el frontend.
 
-<!--
-**pillodev/pillodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Tecnologías con las que trabajo
+Lenguajes: JavaScript, PHP
+Frameworks y librerías: Node.js, Express, React, Next.js, React Native, CodeIgniter
+Bases de datos: MySQL, MongoDB, PostgREST
+Herramientas: Git, GitHub, GitLab
+Otros: Arquitecturas backend escalables
 
-Here are some ideas to get you started:
+💻 Mi enfoque
+Aunque mi especialidad es el backend y la creación de arquitecturas robustas y escalables, también disfruto trabajando en el frontend. Me gusta mantenerme actualizado en ambas áreas para ofrecer soluciones completas y equilibradas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚽ Fuera del código
+Soy un apasionado del fútbol, ¡no todo es código! Siempre busco un equilibrio entre mi trabajo y mis pasatiempos.
+
+📫 Conectemos
+LinkedIn
+Twitter
+Portfolio
